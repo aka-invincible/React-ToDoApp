@@ -1,0 +1,15 @@
+.form-filter {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.9rem;
+}
+
+.filter-select {
+  padding: 0.3rem;
+  border: 1px solid white;
+  border-radius: 5px;
+  cursor: pointer;
+  /* color: orangered; */
+}

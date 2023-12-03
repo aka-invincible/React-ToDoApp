@@ -1,0 +1,21 @@
+.todo-form {
+  display: flex;
+  gap: 5px;
+}
+
+.todo-input {
+  padding: 0.5rem;
+  border-radius: 5px;
+  border: none;
+  width: 30rem;
+  /* color: orangered; */
+}
+
+.btn {
+  background: -webkit-linear-gradient(to right, #f5af19, #f12711);
+  background: linear-gradient(to right, #f5af19, #f12711);
+  border-radius: 5px;
+  border: 1px solid white;
+  color: white;
+  cursor: pointer;
+}
